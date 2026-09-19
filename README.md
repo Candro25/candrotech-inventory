@@ -1,4 +1,5 @@
 # CandroTech - App de Gestión de Inventario
+**Descarga el APK:** [Instalar en tu Android](https://expo.dev/accounts/candro25/projects/app-inventario/builds/8d173339-2c7e-47f0-b348-2a356a06be5a)
 
 ## Descripción
 
