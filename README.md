@@ -6,7 +6,7 @@ CandroTech es una aplicación móvil diseñada para facilitar la administración
 
 ## Capturas de Pantalla
 
-<img src="assets/images/capturas-app/form.jpeg" width="230"> <img src="assets/images/capturas-app/scancod.jpeg" width="230"> <img src="assets/images/capturas-app/result_ScanCod.jpeg" width="230"> <img src="assets/images/capturas-app/producto_inv.jpeg" width="230">  <img src="assets/images/capturas-app/dark_mode.jpeg" width="230">
+<img src="assets/images/capturas-app/form.jpeg" width="230"> <img src="assets/images/capturas-app/scancod.jpeg" width="230"> <img src="assets/images/capturas-app/result_ScanCod.jpeg" width="230"> <img src="assets/images/capturas-app/producto_inv.jpeg" width="230">  <img src="assets/images/capturas-app/dark_mode.jfif" width="230">
 
 ## Características Principales
 
